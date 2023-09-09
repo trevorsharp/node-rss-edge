@@ -56,7 +56,7 @@
     ]
   },
   "dependencies": {
-    "xml": "1.0.1"
+    "xml": "https://github.com/trevorsharp/node-xml-edge.git#b27af3e"
   },
   "devDependencies": {
     "folderify": "1.2.1",
