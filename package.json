@@ -56,7 +56,6 @@
     ]
   },
   "dependencies": {
-    "mime-types": "2.1.35",
     "xml": "1.0.1"
   },
   "devDependencies": {
